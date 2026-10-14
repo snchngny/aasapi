@@ -1,0 +1,7 @@
+LIBRARY audio_aggregate
+EXPORTS
+    DllGetClassObject
+    DllCanUnloadNow
+    AggregateDiagnostics
+    AggregateHealthFlags
+    AggregateCopyStoppedOutput

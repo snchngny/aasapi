@@ -1,0 +1,15 @@
+{
+  "compiler_url": "https://github.com/mstorsjo/llvm-mingw/releases/download/20261006/llvm-mingw-20261006-ucrt-x86_64.zip",
+  "miniaudio": "9634bedb5b5a2ca38c1ee7108a9358a4e233f14d",
+  "asio": "496a0765b8bb9c26f764f22f9a9712a937177db2",
+  "compiler_size": 190836485,
+  "compiler_sha256": "317492c456aa27ee607a5919f1d2d38dcdc1112516a24d0bf4b00d078f52d17a",
+  "files": {
+    "asio/asiosys.h": "387fc21d036c3f39d7f74704bebb1e9cfe0bd8564ccd48088827162b06afe583",
+    "asio/asio.h": "6d83d9b6815d21c002b055c628860e8b0a1ca94c5ae1d9d18f137e308ba98096",
+    "asio/LICENSE.txt": "61e56814f24b32216884b2db0b4dcc317111a5ab354d54d19dd9fc13d71b1c7a",
+    "miniaudio/LICENSE": "457f1b500e0adf6bc059edddfa78a2f62012e7c3bb43476c20e0bd23b25ba0eb",
+    "asio/iasiodrv.h": "0b7d9786fc77ad47dc16324629eb2ae9bff716a0edb023727df3c7ab1b59bf6d",
+    "miniaudio/miniaudio.h": "ac7af4de748b7e26b777f37e01cee313a308a7296a3eb080e2906b320cc55c89"
+  }
+}

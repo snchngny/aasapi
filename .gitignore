@@ -1,0 +1,13 @@
+/build*/
+/.local/
+/config/*
+!/config/simulation.ini
+!/config/aggregate.example.ini
+*.wav
+*.mp3
+*.flac
+*.dmp
+*.log
+.env*
+*.pem
+*.key
